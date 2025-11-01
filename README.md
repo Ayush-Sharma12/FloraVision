@@ -1,6 +1,6 @@
 # FloraVision
 
-A React + Vite + Tailwind CSS single-page site for a plant store. It includes a hero, trendy plants grid, customer reviews, a featured “Best O2” section, and a footer. Icons are from lucide-react.
+A React + Vite + Tailwind CSS single-page site for a plant store. It includes a hero, trendy plants grid, customer reviews, a featured “Best O2” section, and a footer. Icons are from Figma Design.
 
 ## Deployable Link
 https://flora-vision-ed28.vercel.app/
